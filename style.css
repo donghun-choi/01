@@ -1,5 +1,4 @@
-html,
-body {
+html {
   margin: 0;
   padding: 0;
   background-color: #000;
@@ -13,6 +12,13 @@ canvas {
   display: block;
 }
 body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  font-family: "Courier";
+  color: #fff;
+  font-size: 12pt;
+  line-height: 12pt;
   transform: rotateY(180deg);
   -webkit-transform: rotateY(180deg);
 }
