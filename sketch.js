@@ -6,11 +6,12 @@ const density = " 10";
 
 let video;
 let asciiDiv;
-
+const VideoSizeX = 256;
+const VideoSizeY = 96;
 function setup() {
   noCanvas();
   video = createCapture(VIDEO);
-  video.size(128, 96);
+  video.size(VideoSizeX, VideoSizeY);
   asciiDiv = createDiv();
 }
 
