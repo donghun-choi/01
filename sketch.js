@@ -1,6 +1,5 @@
 // ?const density = "Ñ@#W$9876543210?!abc;:+=-,._                    ";
 const density = " 10";
-
 // const density = '       .:-i|=+%O#@'
 // const density = '        .:░▒▓█';
 
