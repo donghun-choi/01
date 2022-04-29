@@ -16,3 +16,7 @@ body {
   transform: rotateY(180deg);
   -webkit-transform: rotateY(180deg);
 }
+main {
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+}
